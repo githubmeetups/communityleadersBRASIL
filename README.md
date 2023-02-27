@@ -5,6 +5,8 @@
 Estamos felizes por você ingressar no GitHub como líder de comunidade e esperamos que você traga energia e a experiência ao nosso grupo.
 Vamos continuar tornando a tecnologia de código aberto acessível, agradável e bem-sucedida!
 
+[Assita esse videozinho pra saber mais sobre como vamos usar esse repositório](https://www.loom.com/share/874f3ad0c46345f181e5f45a21269498)
+
 ## Missão GitHub Community Leader 
 
 O GitHub Community Leaders Program é um programa comunitário com a missão de permitir que indivíduos e suas comunidades locais cresçam com código aberto e GitHub.
