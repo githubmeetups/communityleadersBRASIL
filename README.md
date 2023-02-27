@@ -18,3 +18,4 @@ As comunidades de código aberto do GitHub são grupos de pessoas tcnologistas e
 | Nome | Perfil GitHub  | Cidade| Fuso Horário| Avatar |
 |---|---|---|---|---|
 | Pachi Parra | [@pachicodes](https://github.com/pachicodes) | Brasil | BRT | ![](https://avatars.githubusercontent.com/pachicodes?s=64) |
+| Andressa Cabistani | [@andressadotpy](https://github.com/andressadotpy) | Brasil | BRT | ![](https://avatars.githubusercontent.com/andressadotpy?s=64) |
