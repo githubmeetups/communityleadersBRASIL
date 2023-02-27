@@ -20,3 +20,5 @@ As comunidades de código aberto do GitHub são grupos de pessoas tcnologistas e
 | Pachi Parra | [@pachicodes](https://github.com/pachicodes) | - | BRT | ![](https://avatars.githubusercontent.com/pachicodes?s=64) |
 | Elenita Oliveira | [@souelenita](https://github.com/souelenita) | Salvador | BRT | ![](https://avatars.githubusercontent.com/souelenita?s=64) |
 | Andressa Cabistani | [@andressadotpy](https://github.com/andressadotpy) | Florianópolis | BRT | ![](https://avatars.githubusercontent.com/andressadotpy?s=64) |
+| Morganna Giovanelli | [@morgannadev](https://github.com/morgannadev) | Brasil | BRT | ![](https://avatars.githubusercontent.com/morgannadev?s=64) |
+
