@@ -23,4 +23,5 @@ As comunidades de código aberto do GitHub são grupos de pessoas tcnologistas e
 | Elenita Oliveira | [@souelenita](https://github.com/souelenita) | Salvador, BA | BRT | ![](https://avatars.githubusercontent.com/souelenita?s=64) |
 | Andressa Cabistani | [@andressadotpy](https://github.com/andressadotpy) | Florianópolis, SC | BRT | ![](https://avatars.githubusercontent.com/andressadotpy?s=64) |
 | Morganna Giovanelli | [@morgannadev](https://github.com/morgannadev) | São Paulo, SP | BRT | ![](https://avatars.githubusercontent.com/morgannadev?s=64) |
+| Bruno Lopes | [@brunolopesjn](https://github.com/brunolopesjn) | Fortaleza, CE | BRT | ![](https://avatars.githubusercontent.com/brunolopesjn?s=64) |
 
