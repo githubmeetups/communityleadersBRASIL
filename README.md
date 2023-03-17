@@ -12,7 +12,7 @@ Vamos continuar tornando a tecnologia de código aberto acessível, agradável e
 O GitHub Community Leaders Program é um programa comunitário com a missão de permitir que indivíduos e suas comunidades locais cresçam com código aberto e GitHub.
 
 ## Sobre as comunidades
-As comunidades de código aberto do GitHub são grupos de pessoas tcnologistas em uma cidade ou região específica, que participam de eventos presenciais,  transmissões ao vivo, compartilhando conhecimento e promovendo a colaboração.
+As comunidades de código aberto do GitHub são grupos de pessoas tecnologistas em uma cidade ou região específica, que participam de eventos presenciais,  transmissões ao vivo, compartilhando conhecimento e promovendo a colaboração.
 
 
 ## As pessoas
