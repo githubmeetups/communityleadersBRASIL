@@ -22,6 +22,7 @@ Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
 * Aparência física (incluindo, mas não limitado, ao tamanho do corpo);
 * Etnia;
 * Idade;
+  * Em eventos presenciais, pessoas menores de 18 anos são bem-vindas, porém não nos responsabilizamos por sua locomoção, acomodação ou qualquer outra necessidade logística relacionada ao evento. Recomendamos que estejam acompanhadas por uma pessoa que seja a responsável legal.
 * Religião ou a falta dela;
 * Posicionamento político ou a falta dele;
 * Escolhas de tecnologias, seja para trabalho e/ou para estudo;
