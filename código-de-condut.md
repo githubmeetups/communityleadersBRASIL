@@ -47,7 +47,8 @@ Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
 * Seja uma pessoa curiosa e busque por respostas também em outros meios de pesquisa. Há muitas formas de aprender, assim como também há muitas formas de compartilhar conhecimento;
 * Evite discussões do tipo "tecnologia X é melhor que tecnologia Y". Cada tecnologia tem seu propósito e sua utilidade. Tenha bom senso em suas colocações e respeite as opiniões e experiências das outras pessoas;
 * Evite publicar em qualquer uma das redes sociais da comunidade, conteúdo que infrinja alguma licença ou direitos autorais;
-* Não praticar o mansplaining.
+* Não praticar o mansplaining;
+* As pessoas palestrantes não falam em nome das empresas nas quais elas trabalham e/ou estudam. Precisamos lembrar e respeitar as experiências de cada pessoa, e que não somos CNPJ e sim, apenas pessoas que querem compartilhar conteúdo com a comunidade, sem relação alguma com quaisquer empresas.
 
 ## **:heavy_check_mark: Nós trabalhamos ativamente para:**
 * Ser uma comunidade segura e agradável para todas as pessoas;
